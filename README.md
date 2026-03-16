@@ -48,3 +48,6 @@ If you rename the repo, update `repoName` in `vite.config.ts`.
 - Multiple SVG object layers
 - Saved presets in localStorage
 - Advanced light editor
+
+## GitHub Pages note
+This project auto-detects the GitHub repository name during the GitHub Actions build using `GITHUB_REPOSITORY`, so asset paths should work even if you rename the repo. If you deploy to a custom domain or to the root `username.github.io` repo, change the Vite `base` value in `vite.config.ts` to `'/'`.
