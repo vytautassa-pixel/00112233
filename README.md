@@ -14,7 +14,7 @@ A simple React + Vite + React Three Fiber starter for turning SVG shapes into ex
 - Built-in animation presets including turntable
 - Hover tilt and hover glow interaction
 - PNG export
-- GitHub Pages deployment workflow
+- GitHub Pages deployment workflows
 
 ## Local development
 
