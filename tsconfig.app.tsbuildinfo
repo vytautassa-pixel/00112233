@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/state.ts","./src/components/ControlSection.tsx","./src/components/SceneCanvas.tsx","./src/components/Sidebar.tsx","./src/lib/materials.ts","./src/lib/svg.ts","./src/lib/textures.ts","./src/lib/types.ts"],"errors":true,"version":"5.8.3"}
